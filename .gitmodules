@@ -1,0 +1,3 @@
+[submodule "ibrute"]
+	path = ibrute
+	url = git@github.com:lancer26/ibrute
